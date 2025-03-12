@@ -1,7 +1,7 @@
 # Power-BI-Project
 Built a condensed, dynamic performance report that utilizes switch measures and conditional formatting.
 
-# Project Structure
+## Project Structure
 
 1. Dataset: Dataset used is an excel with three tables: Plant_FACT, Accounts and Plant_Hierarchy.
    
