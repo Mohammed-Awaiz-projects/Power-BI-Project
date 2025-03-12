@@ -47,3 +47,5 @@ Built a condensed, dynamic performance report that utilizes switch measures and 
    ```
    
 6. Visuals: Layout and Design
+![Project Screenshot](dashboard.jpeg)
+   
