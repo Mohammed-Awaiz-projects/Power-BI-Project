@@ -61,8 +61,8 @@ GP% (Gross Profit Percentage): 39.15% (profitability indicator)
 
 2. Visuals
    
-2.1 TreeMap (Bottom 10 Countries - YTD vs PYTD): Shows the lowest-performing countries in terms of quantity decrease. Canada, Hungary, and Croatia have the highest declines.
-2.2 Bar Chart (Quantity YTD vs PYTD by Month): Green bars indicate increase, red bars indicate decrease. March had the biggest negative impact (-11.6K units).
+` TreeMap (Bottom 10 Countries - YTD vs PYTD): Shows the lowest-performing countries in terms of quantity decrease. Canada, Hungary, and Croatia have the highest declines.`
+Bar Chart (Quantity YTD vs PYTD by Month): Green bars indicate increase, red bars indicate decrease. March had the biggest negative impact (-11.6K units).
 2.3 Stacked Column & Line Chart (Product Type Performance by Month):
    Blue bars: YTD Quantity for different product types.
    Red line: PYTD comparison.
