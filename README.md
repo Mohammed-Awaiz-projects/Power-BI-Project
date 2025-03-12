@@ -71,6 +71,6 @@ GP% (Gross Profit Percentage): 39.15% (profitability indicator)
    
 ## Conclusion
 This dashboard allows business users to: 
-✔ Monitor overall performance (YTD vs PYTD).
-✔ Analyze trends across regions, months, and product types.
-✔ Optimize sales & profitability strategies by identifying weak spots.
+1. Monitor overall performance (YTD vs PYTD).
+2. Analyze trends across regions, months, and product types.
+3. Optimize sales & profitability strategies by identifying weak spots.
