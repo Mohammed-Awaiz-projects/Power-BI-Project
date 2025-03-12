@@ -54,10 +54,10 @@ Dashboard provides a performance report for Plant Co. in terms of Quantity, Sale
 ## Dashboard Interpretation
 1. KPIs
    
-YTD Quantity: 148.47K (current year total quantity)
-YTD vs PYTD Difference: -12.37K (indicates decline in quantity)
-PYTD Quantity: 160.84K (last year’s total at the same time)
-GP% (Gross Profit Percentage): 39.15% (profitability indicator)
+- YTD Quantity: 148.47K (current year total quantity)
+- YTD vs PYTD Difference: -12.37K (indicates decline in quantity)
+- PYTD Quantity: 160.84K (last year’s total at the same time)
+- GP% (Gross Profit Percentage): 39.15% (profitability indicator)
 
 2. Visuals
    
