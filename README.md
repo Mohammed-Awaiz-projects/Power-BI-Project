@@ -1,5 +1,7 @@
 # Power-BI-Project
 Built a condensed, dynamic performance report that utilizes switch measures and conditional formatting.
+This dashboard is designed for performance analysis and decision-making regarding sales, quantity, and profitability trends across different countries, product types, and time periods.
+Dashboard provides a performance report for Plant Co. in terms of Quantity, Sales, and Gross Profit, using year-to-date (YTD) and prior-year-to-date (PYTD) comparisons.
 
 ## Project Structure
 
@@ -48,4 +50,27 @@ Built a condensed, dynamic performance report that utilizes switch measures and 
    
 6. Visuals: Layout and Design
 ![Project Screenshot](dashboard.jpeg)
+
+## Dashboard Interpretation
+1. KPIs
    
+YTD Quantity: 148.47K (current year total quantity)
+YTD vs PYTD Difference: -12.37K (indicates decline in quantity)
+PYTD Quantity: 160.84K (last year’s total at the same time)
+GP% (Gross Profit Percentage): 39.15% (profitability indicator)
+
+3. Visuals
+   
+-> TreeMap (Bottom 10 Countries - YTD vs PYTD): Shows the lowest-performing countries in terms of quantity decrease. Canada, Hungary, and Croatia have the highest declines.
+-> Bar Chart (Quantity YTD vs PYTD by Month): Green bars indicate increase, red bars indicate decrease. March had the biggest negative impact (-11.6K units).
+->Stacked Column & Line Chart (Product Type Performance by Month):
+   Blue bars: YTD Quantity for different product types.
+   Red line: PYTD comparison.
+   Drop in April suggests a decline in demand.
+-> Scatter Plot (GP% vs Quantity Segmentation): Identifies profitable vs low-margin accounts. Helps segment customers based on profitability.
+   
+## Conclusion
+This dashboard allows business users to: 
+✔ Monitor overall performance (YTD vs PYTD).
+✔ Analyze trends across regions, months, and product types.
+✔ Optimize sales & profitability strategies by identifying weak spots.
